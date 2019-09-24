@@ -11,3 +11,4 @@ Collection of quantum computing resources and my own notes. Feel free to submit 
 
 ## Books
 - [Computing with Quantum Cats: From Colossus to Qubits](https://www.google.com/search?q=computing+with+quantum+cats)
+- [30-Second Quantum Theory](https://www.google.com/search?q=30+second+quantum+theory)
