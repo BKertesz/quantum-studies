@@ -1,6 +1,7 @@
 # Quantum Computing Studies
 ## About
 Collection of quantum computing resources and my own notes. Feel free to submit any changes or updates as a pull request.
+[Repository Webpage](https://bkertesz.github.io/quantum-studies/)
 
 ## Online Resources
 - [Microsoft Quantum Development Kit](https://github.com/microsoft/Quantum)
